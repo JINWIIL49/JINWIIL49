@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JINWIIL49
+- 👋 Hi, I’m JINWIIL49
 - 👀 I’m interested in learning python 
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on With Other programmers
-- 📫 How to reach me 
+
   
   
 
